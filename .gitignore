@@ -1,0 +1,5 @@
+# Игнорируем файл с API ключами
+.env
+
+# Игнорируем папку node_modules
+node_modules/
